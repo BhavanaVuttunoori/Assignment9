@@ -4,7 +4,6 @@
 
 **Author:** Bhavana Vuttunoori  ---
 
-**Date:** November 20, 2025  
 
 **Project:** Assignment 9 - FastAPI Calculator with Docker#  1. Install Homebrew (Mac Only)
 
